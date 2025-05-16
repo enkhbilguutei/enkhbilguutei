@@ -1,4 +1,4 @@
-## Hello 👋
+## Сайн уу *cringe 👋
 
 Currently pretending to understand AI/ML.
 
