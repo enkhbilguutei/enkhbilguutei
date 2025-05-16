@@ -1,7 +1,8 @@
-## Hi there 👋
+## Hello 👋
 
 
-- 🌱 I’m currently learning nextjs, postgresql, mysql
+> “I’m not lazy, I’m on energy-saving mode.”  
+> - Probably me, debugging at 2 AM
 
 ## Tech Stack  
 Because listing my skills makes me look like I know what I’m doing:
@@ -14,5 +15,6 @@ Because listing my skills makes me look like I know what I’m doing:
 *Also proficient in asking errors from claude and Stack Overflow copy-pasting.*
 
 ## GitHub Stats  
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox)  
+![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=enkhbilguutei&theme=tokyonight&show_icons=true&hide_border=true&layout=compact))  
+
 *Warning: Staring at these stats too long may cause existential dread.*
