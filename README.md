@@ -12,3 +12,7 @@ Because listing my skills makes me look like I know what I’m doing:
 ![Node.js](https://img.shields.io/badge/Node.js-14+-green?logo=node.js&style=flat-square)  
 
 *Also proficient in asking errors from claude and Stack Overflow copy-pasting.*
+
+## GitHub Stats  
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=gruvbox)  
+*Warning: Staring at these stats too long may cause existential dread.*
