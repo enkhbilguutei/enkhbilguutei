@@ -1,5 +1,6 @@
 ## Hello 👋
 
+Currently pretending to understand AI/ML.
 
 > “I’m not lazy, I’m on energy-saving mode.”  
 > - Probably me, debugging at 2 AM
